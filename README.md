@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madelinenavigato
-- 👀 I’m interested in data science and analysis.
-- 🌱 I’m currently learning data analysis and visualization in Python.
+- 👀 I’m interested in data science and analytics.
+- 🌱 I’m currently learning (and working with) data analysis and visualization in Python.
 - 💞️ I’m looking to collaborate on analyzing cool datasets.
 - 📫 How to reach me --> https://www.linkedin.com/in/madelinenavigato/
 
